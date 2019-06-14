@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearningDjango", "LearningDjango.pyproj", "{CC3CAD76-79D7-4B46-90DF-085276CA4E27}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWeb", "..\DjangoWeb\DjangoWeb.pyproj", "{3B08823F-4768-44BD-8476-4FB7CFFA14FF}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWeb", "DjangoWeb\DjangoWeb.pyproj", "{3B08823F-4768-44BD-8476-4FB7CFFA14FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
